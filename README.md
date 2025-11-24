@@ -37,9 +37,9 @@
     <div class="background"></div>
     <div class="container">
         <div class="card">
-       <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 70px;">NGUYỄN NGỌC PHƯƠNG DUYÊN</h1>
+       <h1 style="text-align:center;text-decorating: none; color: white; padding: 0 50px;">NGUYỄN NGỌC PHƯƠNG DUYÊN</h1>
          <div style="background-color: #9387AB; padding: 10px;"> 
-       <p style="text-align:center;text-decorating: none; color: white; padding: 0 40px;">Tôi không lười, chỉ là rất giỏi trong việc tiết kiệm năng lượng</p>
+       <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">Tôi không lười, chỉ là rất giỏi trong việc tiết kiệm năng lượng</p>
          </div>
 <style>
         /* Tiêu đề */
