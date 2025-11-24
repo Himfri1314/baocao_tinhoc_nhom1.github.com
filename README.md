@@ -35,6 +35,4 @@
             <h2>ỐI SỒI ÔI!</h2>
             <p>Biệt danh: Trùm canva, Cố, Ơ diêng, Thủ khoa GDQP,...
             <p>Sở thích: Chơi game, vẽ
-            <p>Bài hát yêu thích:
-            <img src="nhạc.jpg"> 
         </div>
