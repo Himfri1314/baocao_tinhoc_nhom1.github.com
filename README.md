@@ -58,7 +58,43 @@
     gap: 40px;
 }
 </style>
-         <body>
+          <style>
+        /* Tiêu đề */
+.title {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #1a365f;
+}
+/* 4 thẻ */
+.container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+/* Khung thông tin */
+.card {
+    width: 330px;
+    background: white;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: 0.3s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card h3 {
+    margin-top: 10px;
+    font-size: 22px;
+    color: #1a365f;
+    font-weight: 600;
+}
+</style>
+          <body>
     <div class="background"></div>
     <div class="container">
         <div class="card">
@@ -68,4 +104,5 @@
             <img src="dianhac.jpg" class="avatar">
          </div>
       </div>
+          </body>
   </style>
