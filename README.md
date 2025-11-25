@@ -57,6 +57,26 @@
     justify-content: center;
     gap: 40px;
 }
+  }
+/* Khung thông tin */
+.card {
+    width: 330px;
+    background: white;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: 0.3s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card h3 {
+    margin-top: 10px;
+    font-size: 22px;
+    color: #1a365f;
+    font-weight: 600;
+}
 </style>
          <body>
     <div class="background"></div>
