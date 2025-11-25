@@ -68,4 +68,4 @@
             <img src="dianhac.jpg" class="avatar">
          </div>
       </div>
-  </style>
+         </body>
